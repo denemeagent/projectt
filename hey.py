@@ -1,2 +1,0 @@
-hey= "heellooo"
-print(hey)
